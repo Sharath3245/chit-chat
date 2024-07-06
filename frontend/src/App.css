@@ -1,0 +1,6 @@
+.App {
+  background-image: url("https://www.shutterstock.com/image-vector/seamless-pattern-outline-icons-seo-600nw-659141167.jpg");
+  min-height: 100vh;
+  display: flex;
+  background-position: center;
+}
